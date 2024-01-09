@@ -1,3 +1,6 @@
 [submodule "Exam-DDI-Bootstrap"]
 	path = Exam-DDI-Bootstrap
 	url = https://github.com/alex55fc/Exam-DDI-Bootstrap
+[submodule "Exam-DDI-SpringBoot"]
+	path = Exam-DDI-SpringBoot
+	url = https://github.com/alex55fc/Exam-DDI-SpringBoot
