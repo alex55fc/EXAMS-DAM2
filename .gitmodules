@@ -7,3 +7,6 @@
 [submodule "Exam-PSP-ProcessesAndThreads"]
 	path = Exam-PSP-ProcessesAndThreads
 	url = https://github.com/alex55fc/Exam-PSP-ProcessesAndThreads
+[submodule "Exam-SGE-Odoo"]
+	path = Exam-SGE-Odoo
+	url = https://github.com/alex55fc/Exam-SGE-Odoo
