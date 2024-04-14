@@ -13,3 +13,6 @@
 [submodule "Exam-PSP-SecureDataFlowAutomation"]
 	path = Exam-PSP-SecureDataFlowAutomation
 	url = https://github.com/alex55fc/Exam-PSP-SecureDataFlowAutomation
+[submodule "EXAM-SGE-Salesforce2"]
+	path = EXAM-SGE-Salesforce2
+	url = https://github.com/alex55fc/EXAM-SGE-Salesforce2
