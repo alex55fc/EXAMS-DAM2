@@ -10,3 +10,6 @@
 [submodule "Exam-SGE-Odoo"]
 	path = Exam-SGE-Odoo
 	url = https://github.com/alex55fc/Exam-SGE-Odoo
+[submodule "Exam-PSP-SecureDataFlowAutomation"]
+	path = Exam-PSP-SecureDataFlowAutomation
+	url = https://github.com/alex55fc/Exam-PSP-SecureDataFlowAutomation
